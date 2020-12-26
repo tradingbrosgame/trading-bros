@@ -3,3 +3,5 @@ December 26, 2020 Update
 -Item Quality Fixed
 -Skin Quality Fixed
 -Map expanded
+
+Note: Do not click the shop btn yet its not done it will send an invite to your friends currently testing.
