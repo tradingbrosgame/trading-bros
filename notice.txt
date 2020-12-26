@@ -1,20 +1,5 @@
-{
-   "application": {
-      "category": "Games",
-      "link": "https://apps.facebook.com/trading-bros/",
-      "name": "Trading Bros",
-      "namespace": "trading-bros",
-      "id": "266960067296481"
-   },
-   "created_time": "2020-12-26T15:58:38+0000",
-   "from": {
-      "id": "101537698547682",
-      "name": "Jayden Alfjgdceedajc Brownwitz"
-   },
-   "message": "Come and play this trading game and get richer!",
-   "to": {
-      "id": "100654615304525",
-      "name": "Betty Alfjgiieiahjc Chengberg"
-   },
-   "id": "433815514456835"
-}
+December 26, 2020 Update
+
+-Item Quality Fixed
+-Skin Quality Fixed
+-Map expanded
