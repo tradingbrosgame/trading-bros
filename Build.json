@@ -1,7 +1,7 @@
 {
 "companyName": "DanGames",
 "productName": "TradingBros",
-"dataUrl": "https://r.playerio.com/r/trading-bros-oxvvonoloeapilgddlnq/Build.data.unityweb",
+"dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
