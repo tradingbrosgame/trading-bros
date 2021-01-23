@@ -1,5 +1,11 @@
-01/12/2021
+1/22/2021 Update
 
-New Feature
- -Music
-   Songs: Zaza - Be Together, Zico - Any Song, Luke - Lot to Learn, You can be king again, Cartoon - On & On, Santa Fcking Claus
+New
+ • Fire Skin
+ • Vip Pass
+ • 4 New songs
+ 
+Fixes & Changes
+ • Multiple Platinum coin spawned when new player joins
+ • Added Quest button in Trading Market
+ • Added Platinum Coin in Quest each quest has it own clear value
