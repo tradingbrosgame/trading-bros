@@ -1,9 +1,11 @@
-Client Version 1.0.0
+Client Version 1.0.2
 
 New
- • Black Crown
- • Minutes
+ • Singleplayer Released (Beta)
+ • Added Highest Score in leaderboard
+ • 3 new items
+ • 1 new song
  
 Fixes & Changes
- • Packs are now openable again
- • Player card wrong data send fixed
+ • Rare case updated
+ • Added Your rank in leaderboard
