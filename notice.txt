@@ -1,11 +1,10 @@
-Client Version 1.0.2
+Client Version 1.0.3
 
 New
- • Singleplayer Released (Beta)
- • Added Highest Score in leaderboard
- • 3 new items
- • 1 new song
+ • Added Bubble Chat in Stickman
+ • New 2 Singleplayer in Daily Quest
+ • Added 1 item (Greenshoes)
  
 Fixes & Changes
- • Rare case updated
- • Added Your rank in leaderboard
+ • Daily Quest from 5 > 3
+ • Fixed Being able to join in VIP
