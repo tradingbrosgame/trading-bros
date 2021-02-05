@@ -1,10 +1,9 @@
-Client Version 1.0.3
+Client Version 1.0.4
 
 New
- • Added Bubble Chat in Stickman
- • New 2 Singleplayer in Daily Quest
- • Added 1 item (Greenshoes)
+ • Privacy System (You can prevent people to see your items) [Testing]
+ • Weekly Shop
  
 Fixes & Changes
- • Daily Quest from 5 > 3
- • Fixed Being able to join in VIP
+ • Overlap shoes when wearing mount
+ • Singleplayer Character fixed!
