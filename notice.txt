@@ -1,9 +1,9 @@
-Client Version 1.0.4
+Client Version 1.0.9
 
 New
- • Privacy System (You can prevent people to see your items) [Testing]
- • Weekly Shop
+ • You can now open Multiple Packs
+ • Added some extra animations on Witch
+ • New 2 items (Slayer Head, Slayer Sword)
  
 Fixes & Changes
- • Overlap shoes when wearing mount
- • Singleplayer Character fixed!
+ • Witch changed value ultra > unique
