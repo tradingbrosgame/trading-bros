@@ -1,9 +1,10 @@
-Client Version 1.0.9
+Client Version 1.1.1
 
 New
- • You can now open Multiple Packs
- • Added some extra animations on Witch
- • New 2 items (Slayer Head, Slayer Sword)
+ • Limited Item Umbrella will spawn in prem box Droprate: 1%!
  
 Fixes & Changes
- • Witch changed value ultra > unique
+ • Fixed 1.5k+ score multiple box spawned
+ • Fixed Singleplayer platinum
+ • Fixed Playercard skin badge not showing
+ • VIP badge removed
