@@ -1,10 +1,5 @@
-Client Version 1.1.1
+Hello, Players
 
-New
- • Limited Item Umbrella will spawn in prem box Droprate: 1%!
- 
-Fixes & Changes
- • Fixed 1.5k+ score multiple box spawned
- • Fixed Singleplayer platinum
- • Fixed Playercard skin badge not showing
- • VIP badge removed
+We will give the prize for february minutes on March 5, 2021 because of real life event we cound't give the prize
+
+Thank you for understanding!
