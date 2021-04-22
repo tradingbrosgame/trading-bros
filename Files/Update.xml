@@ -2,8 +2,8 @@
 <sharpUpdate> 
     <update> 
         <version>1.1.2</version> 
-        <url>https://raw.githubusercontent.com/henryxrl/SharpUpdate/master/TestApp/bin/Debug/TestApp.exe</url> 
-        <filePath>./TestApp.exe</filePath>
+        <url>https://daniloeslawan.github.io/trading-bros/Files/Launcher.exe</url> 
+        <filePath>./Launcher.exe</filePath>
         <md5>feb8a12f54cdbca11133449147e40b28</md5>
         <description></description> 
         <launchArgs></launchArgs> 
