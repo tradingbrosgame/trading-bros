@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update appID="Launcher"> 
-        <version>1.1.2</version> 
+        <version>0.1.1.2</version> 
         <url>https://raw.githubusercontent.com/Daniloeslawan/trading-bros/master/Files/Launcher.exe</url> 
         <filePath>./Launcher.exe</filePath>
         <md5>ad0f7aa4d2f3345cde176fc8ab605eda</md5>
