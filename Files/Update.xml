@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update> 
+    <update appID="Launcher"> 
         <version>1.1.2</version> 
-        <url>https://daniloeslawan.github.io/trading-bros/Files/Launcher.exe</url> 
+        <url>https://raw.githubusercontent.com/Daniloeslawan/trading-bros/master/Files/Launcher.exe</url> 
         <filePath>./Launcher.exe</filePath>
-        <md5>feb8a12f54cdbca11133449147e40b28</md5>
+        <md5>ad0f7aa4d2f3345cde176fc8ab605eda</md5>
         <description></description> 
         <launchArgs></launchArgs> 
     </update>
